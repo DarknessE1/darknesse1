@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="left">Welcome to my profile! </h1>
 
-<!--
-**DarknessE1/darknesse1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Hi, Myself DarknessE1. Welcome to my corner of the internet!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">
+🐞 Creating bugs since the day I touched a keyboard <br>
+🎲 Fun fact: I learn best when I break things (intentionally or not 😅)
+</p>
+

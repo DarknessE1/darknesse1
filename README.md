@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Hi, Myself DarknessE1.</p>
+<p align="left"><strong>Hi, Myself DarknessE1</strong> 👨‍💻</p>
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">🧠 <strong>About Me</strong></h2>
 
 ###
 

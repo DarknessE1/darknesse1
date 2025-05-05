@@ -1,8 +1,8 @@
-<h1 align="left">Welcome to my profile! </h1>
+<h1 align="left">Welcome to my corner of the internet!</h1>
 
 ###
 
-<p align="left">Hi, Myself DarknessE1. Welcome to my corner of the internet!</p>
+<p align="left">Hi, Myself DarknessE1.</p>
 
 ###
 

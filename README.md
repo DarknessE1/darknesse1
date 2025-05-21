@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-🐞<strong> Creating bugs since the day I touched a keyboard</strong> <br>
+🐞<strong> Finding bugs since the day I touched a keyboard</strong> <br>
 🎲<strong> Fun fact: I learn best when I break things (intentionally or not 😅)</strong>
 </p>
 
